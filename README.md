@@ -25,3 +25,11 @@ Background: #ccc;
 
 #Concernnt la création de cours...
 vous êtes libre de procéder à votre mannière...
+
+
+
+#DANGER
+Eviter les "revert" !!!! vous pouvez vous servir de cette option sur une modification uniquement (après une modification).
+Jamais sur un fichier source cela reviendrait à la suppression du fichier depuis la source, c'est irrévocable.
+
+
